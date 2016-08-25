@@ -1484,7 +1484,6 @@ div.special_item_label  div.general_dropdown_list{
 
 .header_top {
   height: 33px;
-  padding-top: 7px;
   margin: auto;
   position: relative;
   font-size: 13px;
@@ -1537,8 +1536,7 @@ div.special_item_label  div.general_dropdown_list{
 
 .header_middle {
   width: 880px;
-  height: 89px;
-  padding-top: 24px;
+  height: 50px;
   margin: auto;
 }
 
