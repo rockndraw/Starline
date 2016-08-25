@@ -1535,7 +1535,7 @@ div.special_item_label  div.general_dropdown_list{
 }
 
 .header_middle {
-  width: 880px;
+  width: 1000px;
   height: 50px;
   margin: auto;
 }
@@ -1590,7 +1590,7 @@ div.special_item_label  div.general_dropdown_list{
 
 .header_menu {
   display: block;
-  width: 378px;
+  width: 500px;
   margin-left: 9px;
   float: left;
 }
@@ -1629,7 +1629,7 @@ div.special_item_label  div.general_dropdown_list{
 
 .header_bottom {
 	background:url("../img/footer_bg.png");
-	min-height: 50px;
+	min-height: 36px;
     line-height: 36px;
 }
 
@@ -1794,7 +1794,7 @@ div.special_item_label  div.general_dropdown_list{
 .header_catalogLink_block {
   width: 82px;
   height: 20px;
-  margin-top: 8px;
+  margin-top: 0;
   position: relative;
   float: left;
 }
@@ -1865,6 +1865,9 @@ div.special_item_label  div.general_dropdown_list{
 
 .header_catalogLink_block a:active span {
   border: none;
+}
+.header_catalogLink_block a span{
+	text-transform:uppercase;
 }
 
 .header_search_block {
@@ -9740,7 +9743,7 @@ body {
 .menu li a {
   color: #0097bf;
   display: block;
-  padding: 10px;
+  padding:0 10px;
   position: relative;
   transition: color 0.3s;
   text-decoration: none;
@@ -9748,7 +9751,7 @@ body {
 }
 
 .wrapper {
-	width: 880px;
+	width: 1000px;
 	margin: auto;
 }
 
