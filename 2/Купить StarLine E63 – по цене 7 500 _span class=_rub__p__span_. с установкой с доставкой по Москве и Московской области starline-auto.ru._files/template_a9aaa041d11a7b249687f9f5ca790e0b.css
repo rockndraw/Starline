@@ -1536,7 +1536,7 @@ div.special_item_label  div.general_dropdown_list{
 }
 
 .header_middle {
-  width: 1154px;
+  width: 1000px;
   height: 89px;
   padding-top: 24px;
   margin: auto;
@@ -1592,7 +1592,7 @@ div.special_item_label  div.general_dropdown_list{
 
 .header_menu {
   display: block;
-  width: 570px;
+  width: 460px;
   margin-left: 29px;
   float: left;
 }
@@ -9714,7 +9714,7 @@ body {
 
 .headersss {
   max-width: 720px;
-  margin: 2em auto 10em;
+  margin: 2em 1px 10em auto;
 }
 
 .header-nav {
@@ -9747,6 +9747,11 @@ body {
   transition: color 0.3s;
   text-decoration: none;
   text-transform:uppercase;
+}
+
+.wrapper {
+	width: 1000px;
+	margin: auto;
 }
 
 .search-button {
@@ -9803,7 +9808,9 @@ body {
 }
 
 #header-1 {
-  border-bottom: 2px solid #0097bf;
+  border-bottom: 2px solid #0097bf;    
+  background: url(https://www.starline-auto.ru/assets/images/system/header_light.png)no-repeat;
+    background-size: contain;
 }
 #header-1 .search-box {
   position: absolute;
