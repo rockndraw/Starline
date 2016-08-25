@@ -1493,7 +1493,7 @@ div.special_item_label  div.general_dropdown_list{
 
 .header_top_login {
   position: absolute;
-  left: 940px;
+  right: 160px;
   white-space: nowrap;
 }
 
@@ -1536,7 +1536,7 @@ div.special_item_label  div.general_dropdown_list{
 }
 
 .header_middle {
-  width: 1000px;
+  width: 880px;
   height: 89px;
   padding-top: 24px;
   margin: auto;
@@ -1592,7 +1592,7 @@ div.special_item_label  div.general_dropdown_list{
 
 .header_menu {
   display: block;
-  width: 460px;
+  width: 378px;
   margin-left: 29px;
   float: left;
 }
@@ -9750,7 +9750,7 @@ body {
 }
 
 .wrapper {
-	width: 1000px;
+	width: 880px;
 	margin: auto;
 }
 
