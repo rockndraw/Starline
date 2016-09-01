@@ -1528,11 +1528,10 @@ div.special_item_label  div.general_dropdown_list{
 
 .header_top {
   height: 33px;
-  padding-top: 7px;
   margin: auto;
   position: relative;
   font-size: 13px;
-    padding-left: 84px;
+padding-left: 84px;
 }
 
 .header_top_login {
@@ -1582,7 +1581,6 @@ div.special_item_label  div.general_dropdown_list{
 .header_middle {
   width: 1154px;
   height: 89px;
-  padding-top: 24px;
   margin: auto;
 }
 
@@ -9735,7 +9733,7 @@ div.column_2.properties{
 .main-menu li {
     list-style: none;
     display: inline-block;
-    width: 24%;
+    width: 19%;
     text-align: center;
 }
 .main-menu li:hover {
