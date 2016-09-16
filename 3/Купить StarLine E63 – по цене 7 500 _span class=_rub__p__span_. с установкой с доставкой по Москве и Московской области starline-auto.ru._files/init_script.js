@@ -1,0 +1,1 @@
+REES46.initServer({  ssid: '1ee9a889-69ea-468c-ac7b-2c34e6574937',  baseURL: 'http://api.rees46.com',  testingGroup: 0,  currency: '₽',  showPromotion: false,  segments: [],  sync: [],  subscriptions: {  },  web_push_subscriptions: {  },profile: {"gender":null,"fashion":{"sizes":null},"cosmetic":{"hair":null,"skin":null},"allergy":null}});
